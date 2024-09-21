@@ -1,0 +1,207 @@
+{
+  "senders": [
+    {
+      "name": "Farel Putra F.",
+      "profilePicture": "farel_putra_f.jpg",
+      "messages": [
+        {
+          "recipient": "Wildan Rizky Setiawan",
+          "content": "Ini Farel Kak"
+        },
+        {
+          "recipient": "Fatikha Dariyatu Uzma",
+          "content": "-"
+        },
+        {
+          "recipient": "Ramadhani Afanin N.",
+          "content": "-"
+        },
+        {
+          "recipient": "Helen Vidyagustina",
+          "content": "-"
+        },
+        {
+          "recipient": "Anneyra Elveta F.",
+          "content": "-"
+        },
+        {
+          "recipient": "Fitri Ramadhani",
+          "content": "-"
+        },
+        {
+          "recipient": "Queen Allexa Rachel L.",
+          "content": "-"
+        },
+        {
+          "recipient": "Samuel Gian Pakulla",
+          "content": "-"
+        },
+        {
+          "recipient": "Reva Dyah Ayu",
+          "content": "-"
+        },
+        {
+          "recipient": "Hemas Urbaningrum S.",
+          "content": "-"
+        },
+        {
+          "recipient": "Dheka Ramadhanius",
+          "content": "-"
+        },
+        {
+          "recipient": "Salfa Maulidina",
+          "content": "-"
+        },
+        {
+          "recipient": "Amirulloh Rizky J.",
+          "content": "-"
+        },
+        {
+          "recipient": "Abhinaya Hestutomo",
+          "content": "-"
+        },
+        {
+          "recipient": "Meraldine Gladistyo",
+          "content": "-"
+        },
+        {
+          "recipient": "Tiflan Alifia Zhafira",
+          "content": "-"
+        },
+        {
+          "recipient": "Yeni Margareta",
+          "content": "-"
+        },
+        {
+          "recipient": "Muhammad Reza Yolda",
+          "content": "-"
+        },
+        {
+          "recipient": "Adinda Nabila Rahma",
+          "content": "-"
+        },
+        {
+          "recipient": "Anggun Putri Karisma",
+          "content": "-"
+        },
+        {
+          "recipient": "Dinda Maharani",
+          "content": "-"
+        }
+      ]
+    },
+    {
+      "name": "Axa Uefa",
+      "profilePicture": "axa_uefa.jpg",
+      "messages": [
+        {
+          "recipient": "Wildan Rizky Setiawan",
+          "content": "Ini Axa Kak"
+        },
+        {
+          "recipient": "Fatikha Dariyatu Uzma",
+          "content": "-"
+        },
+        {
+          "recipient": "Ramadhani Afanin N.",
+          "content": "-"
+        },
+        {
+          "recipient": "Helen Vidyagustina",
+          "content": "-"
+        },
+        {
+          "recipient": "Anneyra Elveta F.",
+          "content": "-"
+        },
+        {
+          "recipient": "Fitri Ramadhani",
+          "content": "-"
+        },
+        {
+          "recipient": "Queen Allexa Rachel L.",
+          "content": "-"
+        },
+        {
+          "recipient": "Samuel Gian Pakulla",
+          "content": "-"
+        },
+        {
+          "recipient": "Reva Dyah Ayu",
+          "content": "-"
+        },
+        {
+          "recipient": "Hemas Urbaningrum S.",
+          "content": "-"
+        },
+        {
+          "recipient": "Dheka Ramadhanius",
+          "content": "-"
+        },
+        {
+          "recipient": "Salfa Maulidina",
+          "content": "-"
+        },
+        {
+          "recipient": "Amirulloh Rizky J.",
+          "content": "-"
+        },
+        {
+          "recipient": "Abhinaya Hestutomo",
+          "content": "-"
+        },
+        {
+          "recipient": "Meraldine Gladistyo",
+          "content": "-"
+        },
+        {
+          "recipient": "Tiflan Alifia Zhafira",
+          "content": "-"
+        },
+        {
+          "recipient": "Yeni Margareta",
+          "content": "-"
+        },
+        {
+          "recipient": "Muhammad Reza Yolda",
+          "content": "-"
+        },
+        {
+          "recipient": "Adinda Nabila Rahma",
+          "content": "-"
+        },
+        {
+          "recipient": "Anggun Putri Karisma",
+          "content": "-"
+        },
+        {
+          "recipient": "Dinda Maharani",
+          "content": "-"
+        }
+      ]
+    }
+  ],
+  "recipients": [
+    "Wildan Rizky Setiawan",
+    "Fatikha Dariyatu Uzma",
+    "Ramadhani Afanin N.",
+    "Helen Vidyagustina",
+    "Anneyra Elveta F.",
+    "Fitri Ramadhani",
+    "Queen Allexa Rachel L.",
+    "Samuel Gian Pakulla",
+    "Reva Dyah Ayu",
+    "Hemas Urbaningrum S.",
+    "Dheka Ramadhanius",
+    "Salfa Maulidina",
+    "Amirulloh Rizky J.",
+    "Abhinaya Hestutomo",
+    "Meraldine Gladistyo",
+    "Tiflan Alifia Zhafira",
+    "Yeni Margareta",
+    "Muhammad Reza Yolda",
+    "Adinda Nabila Rahma",
+    "Anggun Putri Karisma",
+    "Dinda Maharani"
+  ]
+}
