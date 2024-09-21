@@ -182,26 +182,89 @@
     }
   ],
   "recipients": [
-    "Wildan Rizky Setiawan",
-    "Fatikha Dariyatu Uzma",
-    "Ramadhani Afanin N.",
-    "Helen Vidyagustina",
-    "Anneyra Elveta F.",
-    "Fitri Ramadhani",
-    "Queen Allexa Rachel L.",
-    "Samuel Gian Pakulla",
-    "Reva Dyah Ayu",
-    "Hemas Urbaningrum S.",
-    "Dheka Ramadhanius",
-    "Salfa Maulidina",
-    "Amirulloh Rizky J.",
-    "Abhinaya Hestutomo",
-    "Meraldine Gladistyo",
-    "Tiflan Alifia Zhafira",
-    "Yeni Margareta",
-    "Muhammad Reza Yolda",
-    "Adinda Nabila Rahma",
-    "Anggun Putri Karisma",
-    "Dinda Maharani"
+    {
+      "name": "Wildan Rizky Setiawan",
+      "profilePicture": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/pas-foto/IMG_0580%20(1).JPG"
+    },
+    {
+      "name": "Fatikha Dariyatu Uzma",
+      "profilePicture": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/pas-foto/fatikha_dariyatu_uzma.jpg"
+    },
+    {
+      "name": "Ramadhani Afanin N.",
+      "profilePicture": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/pas-foto/ramadhani_afanin_n.jpg"
+    },
+    {
+      "name": "Helen Vidyagustina",
+      "profilePicture": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/pas-foto/helen_vidyagustina.jpg"
+    },
+    {
+      "name": "Anneyra Elveta F.",
+      "profilePicture": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/pas-foto/anneyra_elveta_f.jpg"
+    },
+    {
+      "name": "Fitri Ramadhani",
+      "profilePicture": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/pas-foto/fitri_ramadhani.jpg"
+    },
+    {
+      "name": "Queen Allexa Rachel L.",
+      "profilePicture": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/pas-foto/queen_allexa_rachel_l.jpg"
+    },
+    {
+      "name": "Samuel Gian Pakulla",
+      "profilePicture": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/pas-foto/samuel_gian_pakulla.jpg"
+    },
+    {
+      "name": "Reva Dyah Ayu",
+      "profilePicture": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/pas-foto/reva_dyah_ayu.jpg"
+    },
+    {
+      "name": "Hemas Urbaningrum S.",
+      "profilePicture": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/pas-foto/hemas_urbaningrum_s.jpg"
+    },
+    {
+      "name": "Dheka Ramadhanius",
+      "profilePicture": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/pas-foto/dheka_ramadhanius.jpg"
+    },
+    {
+      "name": "Salfa Maulidina",
+      "profilePicture": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/pas-foto/salfa_maulidina.jpg"
+    },
+    {
+      "name": "Amirulloh Rizky J.",
+      "profilePicture": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/pas-foto/amirulloh_rizky_j.jpg"
+    },
+    {
+      "name": "Abhinaya Hestutomo",
+      "profilePicture": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/pas-foto/abhinaya_hestutomo.jpg"
+    },
+    {
+      "name": "Meraldine Gladistyo",
+      "profilePicture": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/pas-foto/meraldine_gladistyo.jpg"
+    },
+    {
+      "name": "Tiflan Alifia Zhafira",
+      "profilePicture": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/pas-foto/tiflan_alifia_zhafira.jpg"
+    },
+    {
+      "name": "Yeni Margareta",
+      "profilePicture": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/pas-foto/yeni_margareta.jpg"
+    },
+    {
+      "name": "Muhammad Reza Yolda",
+      "profilePicture": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/pas-foto/muhammad_reza_yolda.jpg"
+    },
+    {
+      "name": "Adinda Nabila Rahma",
+      "profilePicture": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/pas-foto/adinda_nabila_rahma.jpg"
+    },
+    {
+      "name": "Anggun Putri Karisma",
+      "profilePicture": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/pas-foto/anggun_putri_karisma.jpg"
+    },
+    {
+      "name": "Dinda Maharani",
+      "profilePicture": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/pas-foto/dinda_maharani.jpg"
+    }
   ]
-}
+    }
