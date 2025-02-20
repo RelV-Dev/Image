@@ -1,0 +1,130 @@
+{
+  "divisi": [
+    {
+      "nama": "Divisi Bank Sampah",
+      "banner": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/p5/banner-bank-sampah.png",
+      "implementasi": [
+        {
+          "id": 1,
+          "judul": "Membuat pamflet kampanye kurangi penggunaan plastik dengan menggunakan CANVA",
+          "tanggal": "2024-10-18",
+          "image_url": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/p5/bs-i-1.jpg"
+        },
+        {
+          "id": 2,
+          "judul": "Upload kampanye di sosmed masing-masing anggota",
+          "tanggal": "2024-10-21",
+          "image_url": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/p5/bs-i-2.jpg"
+        },
+        {
+          "id": 3,
+          "judul": "Membuat video pendek dengan tema sampahku, tanggung jawabku",
+          "tanggal": "2024-10-29",
+          "image_url": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/p5/bs-i-3.jpg"
+        },
+        {
+          "id": 4,
+          "judul": "Membuat artikel dengan tema dari sampah jadi berkah",
+          "tanggal": "2024-11-06",
+          "image_url": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/p5/bs-i-4.jpg"
+        },
+        {
+          "id": 5,
+          "judul": "Membuat vlog dengan tema bawa tempat sendiri, kurangi sampah",
+          "tanggal": "2024-11-14",
+          "image_url": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/p5/bs-i-5.jpg"
+        },
+        {
+          "id": 6,
+          "judul": "Membuat poster dengan tema sekolahku bersih, sekolahku asri",
+          "tanggal": "2025-02-03",
+          "image_url": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/p5/bs-i-6.jpg"
+        }
+      ]
+    },
+    {
+      "nama": "Divisi Hasta Karya",
+      "banner": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/p5/banner-hasta.png",
+      "implementasi": [
+        {
+          "id": 1,
+          "judul": "Membuat proyek pengelolaan sampah dari sterofom",
+          "tanggal": "2024-10-18",
+          "image_url": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/p5/hk-i-1.jpg"
+        },
+        {
+          "id": 2,
+          "judul": "Membuat proyek pengelolaan sampah dari botol plastik",
+          "tanggal": "2024-10-21",
+          "image_url": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/p5/hk-i-2.jpg"
+        },
+        {
+          "id": 3,
+          "judul": "Membuat proyek pengelolaan sampah dari sendok plastik",
+          "tanggal": "2024-10-29",
+          "image_url": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/p5/hk-i-3.jpg"
+        },
+        {
+          "id": 4,
+          "judul": "Membuat proyek pengelolaan sampah dari gelas plastik",
+          "tanggal": "2024-11-06",
+          "image_url": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/p5/hk-i-4.jpg"
+        },
+        {
+          "id": 5,
+          "judul": "Membuat proyek pengelolaan sampah dari kardus",
+          "tanggal": "2024-11-14",
+          "image_url": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/p5/hk-i-5.jpg"
+        },
+        {
+          "id": 6,
+          "judul": "Membuat proyek pengelolaan sampah dari plastik kresek",
+          "tanggal": "2025-02-03",
+          "image_url": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/p5/hk-i-6.jpg"
+        }
+      ]
+    },
+    {
+      "nama": "Divisi Pengomposan",
+      "banner": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/p5/banner-pengomposan.png",
+      "implementasi": [
+        {
+          "id": 1,
+          "judul": "Pembuatan biopori dan mulai memasukkan sampah organik",
+          "tanggal": "2024-10-18",
+          "image_url": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/p5/ko-i-1.jpg"
+        },
+        {
+          "id": 2,
+          "judul": "Pembuatan kompos, ecoenzim, dan POC dari bahan organik",
+          "tanggal": "2024-10-21",
+          "image_url": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/p5/ko-i-2.jpg"
+        },
+        {
+          "id": 3,
+          "judul": "Pembuatan taman",
+          "tanggal": "2024-10-29",
+          "image_url": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/p5/ko-i-3.jpg"
+        },
+        {
+          "id": 4,
+          "judul": "Pembersihan lingkungan",
+          "tanggal": "2024-11-06",
+          "image_url": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/p5/ko-i-4.jpg"
+        },
+        {
+          "id": 5,
+          "judul": "Pembuatan website menggunakan Canva.",
+          "tanggal": "2024-11-14",
+          "image_url": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/p5/ko-i-5.jpg"
+        },
+        {
+          "id": 6,
+          "judul": "Pemanenan kompos/ecoenzim/POC dan Packing.",
+          "tanggal": "2025-02-03",
+          "image_url": "https://raw.githubusercontent.com/RelV-Dev/Image/refs/heads/main/p5/ko-i-6.jpg"
+        }
+      ]
+    }
+  ]
+}
