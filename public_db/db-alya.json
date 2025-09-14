@@ -3,7 +3,7 @@
   {
     "id": "artikel",
     "title": "Artikel",
-    "icon": "artikel-logo.png",
+    "icon": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/artikel-logo.png",
     "items": [
     {
       "id": "artikel-1",
@@ -105,7 +105,7 @@
   {
     "id": "infografis",
     "title": "Infografis",
-    "icon": "infografis-logo.png",
+    "icon": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/infografis-logo.png",
     "items": [
     {
       "id": "infografis-1",
@@ -129,7 +129,7 @@
   {
     "id": "reels",
     "title": "Reels",
-    "icon": "reels-logo.png",
+    "icon": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/reels-logo.png",
     "items": [
     {
       "id": "reels-1",
