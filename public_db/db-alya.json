@@ -27,7 +27,7 @@
       "author": "Alya Rahma Nafi'ah",
       "date": "2025-08-31",
       "excerpt": "Gedung Eks Karesidenan Pati merupakan salah satu bangunan bersejarah yang menyimpan banyak lapisan cerita birokrasi, sosial, dan budaya.",
-      "content_url": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/artikel-3.pdf"
+      "content_url": "https://raw.githubusercontent.com/RelV-Dev/alya/main/src/artikel/Artikel-3.pdf"
     },
     {
       "id": "artikel-4",
@@ -35,7 +35,7 @@
       "author": "Alya Rahma Nafi'ah",
       "date": "2025-09-02",
       "excerpt": "",
-      "content_url": "src/artikel/artikel-4.pdf"
+      "content_url": "https://raw.githubusercontent.com/RelV-Dev/alya/main/src/artikel/Artikel-4.pdf"
     },
     {
       "id": "artikel-5",
@@ -43,7 +43,7 @@
       "author": "Alya Rahma Nafi'ah",
       "date": "2025-09-04",
       "excerpt": "Jika kita menyusuri kompleks gedung Eks Karesidenan Pati, ada satu ruangan yang kini berfungsi sebagai ruangan Seksi SMA Dinas Pendidikan Wilayah III Jawa Tengah.",
-      "content_url": "src/artikel/artikel-5.pdf"
+      "content_url": "https://raw.githubusercontent.com/RelV-Dev/alya/main/src/artikel/Artikel-5.pdf"
     },
     {
       "id": "artikel-6",
@@ -51,7 +51,7 @@
       "author": "Alya Rahma Nafi'ah",
       "date": "2025-09-06",
       "excerpt": "Setiap ruangan di Gedung Eks - Karesidenan Pati menyimpan cerita unik, termasuk ruangan yang kini dikenal sebagai ruang rapat.",
-      "content_url": "src/artikel/artikel-6.pdf"
+      "content_url": "https://raw.githubusercontent.com/RelV-Dev/alya/main/src/artikel/Artikel-6.pdf"
     },
     {
       "id": "artikel-7",
@@ -59,7 +59,7 @@
       "author": "Alya Rahma Nafi'ah",
       "date": "2025-09-07",
       "excerpt": "Gedung Eks Karesidenan Pati di dalamnya terdapat sebuah ruangan yang istimewa, sering disebut Kamar Raja atau Kamar Sultan.",
-      "content_url": "src/artikel/artikel-7.pdf"
+      "content_url": "https://raw.githubusercontent.com/RelV-Dev/alya/main/src/artikel/Artikel-7.pdf"
     },
     {
       "id": "artikel-8",
@@ -67,7 +67,7 @@
       "author": "Alya Rahma Nafi'ah",
       "date": "2025-09-08",
       "excerpt": "Gedung Eks Karesidenan Pati juga terdapat sebuah ruangan yang dikenal sebagai ruang kamar tamu.",
-      "content_url": "src/artikel/artikel-8.pdf"
+      "content_url": "https://raw.githubusercontent.com/RelV-Dev/alya/main/src/artikel/Artikel-8.pdf"
     },
     {
       "id": "artikel-9",
@@ -75,7 +75,7 @@
       "author": "Alya Rahma Nafi'ah",
       "date": "2025-09-10",
       "excerpt": "Di sisi depan Gedung Eks Karesidenan Pati, tepat di samping kanan pintu utama terdapat sebuah ruangan yang kini dikenal sebagai Ruang Kepala Cabang Dinas(Cabdin) III Jawa Tengah.",
-      "content_url": "src/artikel/artikel-9.pdf"
+      "content_url": "https://raw.githubusercontent.com/RelV-Dev/alya/main/src/artikel/Artikel-9.pdf"
     },
     {
       "id": "artikel-10",
@@ -83,7 +83,7 @@
       "author": "Alya Rahma Nafi'ah",
       "date": "2025-09-11",
       "excerpt": "Setiap ruang di Gedung Eks Karesidenan Pati memiliki kisahnya sendiri, tak terkecuali Ruang Kasubbak Tata Usaha(TU) yang kini digunakan sebagai bagian dari kantor Cabang Dinas Pendidikan Wilayah III Jawa Tengah.",
-      "content_url": "src/artikel/artikel-10.pdf"
+      "content_url": "https://raw.githubusercontent.com/RelV-Dev/alya/main/src/artikel/Artikel-10.pdf"
     },
     {
       "id": "artikel-11",
@@ -91,7 +91,7 @@
       "author": "Alya Rahma Nafi'ah",
       "date": "2025-09-12",
       "excerpt": "Bagian depan ruang SMK di kompleks Eks Karesidenan Pati menyimpan kisah yang unik, memadukan unsur sejarah nyata dengan cerita mistis yang diwariskan secara turun - temurun.",
-      "content_url": "src/artikel/artikel-11.pdf"
+      "content_url": "https://raw.githubusercontent.com/RelV-Dev/alya/main/src/artikel/Artikel-11.pdf"
     },
     {
       "id": "artikel-12",
@@ -99,7 +99,7 @@
       "author": "Alya Rahma Nafi'ah",
       "date": "2025-09-13",
       "excerpt": "Gedung Eks Karesidenan Pati menyimpan jejak panjang sejarah birokrasi di Jawa Tengah, salah satunya terlihat dari Ruang Tata Usaha(TU) yang kini menjadi bagian penting kantor Cabang Dinas Pendidikan Wilayah III.",
-      "content_url": "src/artikel/artikel-12.pdf"
+      "content_url": "https://raw.githubusercontent.com/RelV-Dev/alya/main/src/artikel/Artikel-12.pdf"
     }]
   },
   {
@@ -110,19 +110,19 @@
     {
       "id": "infografis-1",
       "title": "EKSISTENSI KUNO: IDENTITAS YANG TERJAGA",
-      "image_url": "infografis-kuno.png",
+      "image_url": "https://raw.githubusercontent.com/RelV-Dev/alya/main/infografis-kuno.png",
       "description": "Eks Karesidenan Pati, saksi bisu sejarah kolonial yang kini hadir kembali sebagai ruang edukasi sejarah dan budaya untuk generasi muda dalam kemasan digital yang kreatif."
     },
     {
       "id": "infografis-2",
       "title": "EKS KARESIDENAN PATI KINI: MENJADI RUANG DINAMIS EDUKASI DAN KREATIVITAS DIGITAL GENERASIZ",
-      "image_url": "infografis-kini.png",
+      "image_url": "https://raw.githubusercontent.com/RelV-Dev/alya/main/infografis-kini.png",
       "description": "Saat ini, bangunan Eks-Karesidenan Pati difungsikan sebagai kantor Cabang Dinas Pendidikan Wilayah III Provinsi Jawa Tengah."
     },
     {
       "id": "infografis-3",
       "title": "Living Heritage EKS KARESIDENAN PATI",
-      "image_url": "infografis-kelak.png",
+      "image_url": "https://raw.githubusercontent.com/RelV-Dev/alya/main/infografis-kelak.png",
       "description": "Eks Karesidenan Pati bukan sekedar bangunan bersejarah, tetapi ruang hidup yang menghubungkan edukasi sejarah dan kreativitas digital generasi Z melalui storytelling, tour edukasi dan inovasi budaya."
     }]
   },
@@ -135,67 +135,67 @@
       "id": "reels-1",
       "title": "Gedung Eks Karesidenan Pati",
       "video_url": "https://vt.tiktok.com/ZSD618R5U/",
-      "thumbnail_url": "src/thumbnail/reels1.jpg"
+      "thumbnail_url": "https://raw.githubusercontent.com/RelV-Dev/alya/main/src/thumbnail/reels1.jpg"
     },
     {
       "id": "reels-2",
       "title": "Ruang Tamu Tengah",
       "video_url": "https://vt.tiktok.com/ZSDjo3mWf/",
-      "thumbnail_url": "src/thumbnail/reels2.jpg"
+      "thumbnail_url": "https://raw.githubusercontent.com/RelV-Dev/alya/main/src/thumbnail/reels2.jpg"
     },
     {
       "id": "reels-3",
       "title": "Ruang TU Keuangan",
       "video_url": "https://vt.tiktok.com/ZSD61kbaV/",
-      "thumbnail_url": "src/thumbnail/reels3.jpg"
+      "thumbnail_url": "https://raw.githubusercontent.com/RelV-Dev/alya/main/src/thumbnail/reels3.jpg"
     },
       {
   "id": "reels-4",
   "title": "Ruang Seksi SMA",
   "video_url": "https://vt.tiktok.com/ZSD61DQHM/",
-  "thumbnail_url": "src/thumbnail/reels45.jpg"
+  "thumbnail_url": "https://raw.githubusercontent.com/RelV-Dev/alya/main/src/thumbnail/reels45.jpg"
 }, 
 {
   "id": "reels-6",
   "title": "Ruang Karawitan",
   "video_url": "https://vt.tiktok.com/ZSD61rvkB/",
-  "thumbnail_url": "src/thumbnail/reels6.jpg"
+  "thumbnail_url": "https://raw.githubusercontent.com/RelV-Dev/alya/main/src/thumbnail/reels6.jpg"
 }, 
 {
   "id": "reels-7",
   "title": "Ruang Rapat",
   "video_url": "https://vt.tiktok.com/ZSD61UNvX/",
-  "thumbnail_url": "src/thumbnail/reels7.jpg"
+  "thumbnail_url": "https://raw.githubusercontent.com/RelV-Dev/alya/main/src/thumbnail/reels7.jpg"
 }, 
  {
   "id": "reels-8",
   "title": "Ruang Kamar Sultan",
   "video_url": "https://vt.tiktok.com/ZSD61AVnb/",
-  "thumbnail_url": "src/thumbnail/reels8.jpg"
+  "thumbnail_url": "https://raw.githubusercontent.com/RelV-Dev/alya/main/src/thumbnail/reels8.jpg"
 }, 
  {
   "id": "reels-10",
   "title": "Ruang Kacapdin 3",
   "video_url": "https://vt.tiktok.com/ZSD61mtpN/",
-  "thumbnail_url": "src/thumbnail/reels10.jpg"
+  "thumbnail_url": "https://raw.githubusercontent.com/RelV-Dev/alya/main/src/thumbnail/reels10.jpg"
 }, 
  {
   "id": "reels-11",
   "title": "Ruang Kasubbag TU",
   "video_url": "https://vt.tiktok.com/ZSD61WATn/",
-  "thumbnail_url": "src/thumbnail/reels11.jpg"
+  "thumbnail_url": "https://raw.githubusercontent.com/RelV-Dev/alya/main/src/thumbnail/reels11.jpg"
 }, 
  {
   "id": "reels-12",
   "title": "Ruang Seksi SMK",
   "video_url": "https://vt.tiktok.com/ZSD6J81Uq/",
-  "thumbnail_url": "src/thumbnail/reels12.jpg"
+  "thumbnail_url": "https://raw.githubusercontent.com/RelV-Dev/alya/main/src/thumbnail/reels12.jpg"
 }, 
  {
   "id": "reels-13",
   "title": "Ruang TU",
   "video_url": "https://vt.tiktok.com/ZSD61gudp/",
-  "thumbnail_url": "src/thumbnail/reels13.jpg"
+  "thumbnail_url": "https://raw.githubusercontent.com/RelV-Dev/alya/main/src/thumbnail/reels13.jpg"
 }
     ]
   }]
