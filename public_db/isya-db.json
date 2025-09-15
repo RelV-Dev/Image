@@ -1,0 +1,157 @@
+{
+  "menus": [
+  {
+    "id": "artikel",
+    "title": "Artikel",
+    "icon": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/artikel-logo.png",
+    "items": [
+    {
+      "id": "artikel-1",
+      "title": "MAKAM TJONDRONEGORO: JEJAK LELUHUR, KEARIFAN LOKAL, DAN HARMONI DIGITAL",
+      "author": "Alya Rahma Nafi'ah",
+      "date": "2025-08-26",
+      "excerpt": "Makam Tjondronegoro bukan sekadar tempat peristirahatan terakhir seorang tokoh besar, melainkan juga saksi bisu perjalanan sejarah lebih dari 200 tahun.",
+      "content_url": "https://raw.githubusercontent.com/RelV-Dev/alya/main/isya/Artikel-isya.pdf"
+    }]
+  },
+  {
+    "id": "infografis",
+    "title": "Infografis",
+    "icon": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/infografis-logo.png",
+    "items": [
+    {
+      "id": "infografis-1",
+      "title": "EKSISTENSI KUNO: IDENTITAS YANG TERJAGA",
+      "image_url": "infografis-kuno.png",
+      "description": "Eks Karesidenan Pati, saksi bisu sejarah kolonial yang kini hadir kembali sebagai ruang edukasi sejarah dan budaya untuk generasi muda dalam kemasan digital yang kreatif."
+    },
+    {
+      "id": "infografis-2",
+      "title": "EKS KARESIDENAN PATI KINI: MENJADI RUANG DINAMIS EDUKASI DAN KREATIVITAS DIGITAL GENERASIZ",
+      "image_url": "infografis-kini.png",
+      "description": "Saat ini, bangunan Eks-Karesidenan Pati difungsikan sebagai kantor Cabang Dinas Pendidikan Wilayah III Provinsi Jawa Tengah."
+    },
+    {
+      "id": "infografis-3",
+      "title": "Living Heritage EKS KARESIDENAN PATI",
+      "image_url": "infografis-kelak.png",
+      "description": "Eks Karesidenan Pati bukan sekedar bangunan bersejarah, tetapi ruang hidup yang menghubungkan edukasi sejarah dan kreativitas digital generasi Z melalui storytelling, tour edukasi dan inovasi budaya."
+    }]
+  },
+  {
+    "id": "reels",
+    "title": "Reels",
+    "icon": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/reels-logo.png",
+    "items": [
+    {
+      "id": "reels-1",
+      "title": "Mengarungi waktu di Makam Tjodronegoro",
+      "video_url": "https://vt.tiktok.com/ZSD618R5U/",
+      "thumbnail_url": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/isya/1.jpg"
+    }
+    ]
+  },
+    {
+      "id": "gallery",
+      "title": "Galeri Foto",
+      "icon": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/isya/gallery-icon.png",
+      "items": [
+  {
+    "id": 1,
+    "title": "Surat Yayasan Sedopoeri",
+    "image_url": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/isya/galeri/1.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Payung Kebesaran Tjodronegoro",
+    "image_url": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/isya/galeri/2.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Pangeran Arya Tjondrohadiningrat",
+    "image_url": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/isya/galeri/3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Payung Kebesaran Arya Tjondrohadiningrat",
+    "image_url": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/isya/galeri/4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Foto Tjodronegoro",
+    "image_url": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/isya/galeri/5.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Buku Tamu 1983",
+    "image_url": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/isya/galeri/6.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Buku Tamu 1984",
+    "image_url": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/isya/galeri/7.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Buku Tamu 2024",
+    "image_url": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/isya/galeri/8.jpeg"
+  },
+  {
+    "id": 9,
+    "title": "Buku Tamu 2004",
+    "image_url": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/isya/galeri/9.jpeg"
+  },
+  {
+    "id": 10,
+    "title": "Buku Tamu 2025",
+    "image_url": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/isya/galeri/10.jpeg"
+  },
+  {
+    "id": 11,
+    "title": "Foto bersama Juru Kunci",
+    "image_url": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/isya/galeri/11.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Foto pada saat observasi",
+    "image_url": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/isya/galeri/12.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Foto bersama Juru Kunci",
+    "image_url": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/isya/galeri/13.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Foto pada saat observasi",
+    "image_url": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/isya/galeri/14.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Foto makam keluarga Tjodronegoro",
+    "image_url": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/isya/galeri/15.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Foto makam keluarga Tjodronegoro",
+    "image_url": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/isya/galeri/16.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Pintu masuk Makam Tjodronegoro",
+    "image_url": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/isya/galeri/17.jpeg"
+  },
+  {
+    "id": 18,
+    "title": "Di dalam makam Tjodronegoro",
+    "image_url": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/isya/galeri/18.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Makam Mbah Tjodronegoro",
+    "image_url": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/isya/galeri/19.jpg"
+  }
+]
+    }
+  ]
+}
