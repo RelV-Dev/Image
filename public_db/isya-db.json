@@ -20,18 +20,6 @@
     "icon": "https://raw.githubusercontent.com/RelV-Dev/alya/refs/heads/main/infografis-logo.png",
     "items": [
     {
-      "id": "infografis-1",
-      "title": "EKSISTENSI KUNO: IDENTITAS YANG TERJAGA",
-      "image_url": "infografis-kuno.png",
-      "description": "Eks Karesidenan Pati, saksi bisu sejarah kolonial yang kini hadir kembali sebagai ruang edukasi sejarah dan budaya untuk generasi muda dalam kemasan digital yang kreatif."
-    },
-    {
-      "id": "infografis-2",
-      "title": "EKS KARESIDENAN PATI KINI: MENJADI RUANG DINAMIS EDUKASI DAN KREATIVITAS DIGITAL GENERASIZ",
-      "image_url": "infografis-kini.png",
-      "description": "Saat ini, bangunan Eks-Karesidenan Pati difungsikan sebagai kantor Cabang Dinas Pendidikan Wilayah III Provinsi Jawa Tengah."
-    },
-    {
       "id": "infografis-3",
       "title": "Living Heritage EKS KARESIDENAN PATI",
       "image_url": "infografis-kelak.png",
